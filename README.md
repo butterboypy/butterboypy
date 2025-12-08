@@ -7,6 +7,3 @@
 🎥 Making content about Data Related Fields, tech, and productivity on [Instagram](https://www.instagram.com/bub_codes/)<br/>
 🦆 Love [#kaggle](https://www.kaggle.com)!<br/>
 📊 Currently learning about AI & Machine Learning and [DSA](https://roadmap.sh/pdfs/roadmaps/datastructures-and-algorithms.pdf)!<br/>
-
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Krishnendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=butterboypy&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
