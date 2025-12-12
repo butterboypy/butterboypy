@@ -8,6 +8,8 @@
 🦆 **Kaggle Enthusiast : My** [Kaggle](https://www.kaggle.com/butterboypy)!<br/>
 📊 **Currently learning about Concepts of AI & Machine Learning and DSA**<br/>
 
+![](https://nirzak-streak-stats.vercel.app/?user=butterboypy&theme=dark&hide_border=false)<
+
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bub_codes) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnendudas2002)
