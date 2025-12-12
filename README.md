@@ -2,16 +2,16 @@
 
 ## Hi, Krish here!
 
-💻 I am an aspiring [Data Analyst](https://roadmap.sh/pdfs/roadmaps/data-analyst.pdf) sharing about my journey and learnings in tech<br/>
-🎓 Studied B.Tech EE (electrical engg.) at the University of Makaut, Kolkata, India<br/>
-🎥 Making content about Data Related Fields, tech, and productivity on [Instagram](https://www.instagram.com/bub_codes/)<br/>
-🦆 Love [#kaggle](https://www.kaggle.com)!<br/>
-📊 Currently learning about Concepts of AI & Machine Learning and [DSA](https://roadmap.sh/pdfs/roadmaps/datastructures-and-algorithms.pdf)!<br/>
-
-
+💻 **I am an aspiring Data Analyst sharing my journey and learnings in tech**<br/>
+🎓 **B.Tech EE (electrical engg.), University of Makaut, Kolkata, India**<br/>
+🎥 **I create content about Data Analytics, Data Science, tech, and productivity on Instagram**<br/>
+🦆 **Kaggle Enthusiast : My** [Kaggle](https://www.kaggle.com/butterboypy)!<br/>
+📊 **Currently learning about Concepts of AI & Machine Learning and DSA**<br/>
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bub_codes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnendudas2002) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnendudas20022002@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bub_codes) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnendudas2002)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnendudas20022002@gmail.com) 
 
 # 💻 Tech Stack: 
 
@@ -67,7 +67,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373F?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
-###### Cloud
+###### Cloud / DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
