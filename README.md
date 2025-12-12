@@ -15,7 +15,7 @@
 
 # 💻 Tech Stack: 
 
-### Skills
+## Skills
 ![Gen AI](https://img.shields.io/badge/Gen_AI-1E90FF?style=for-the-badge&logo=ai&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -26,8 +26,9 @@
 ![Cloud](https://img.shields.io/badge/Cloud-00ADEF?style=for-the-badge&logo=cloud&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Project Management](https://img.shields.io/badge/Project_Management-F15A24?style=for-the-badge&logo=trello&logoColor=white)
 
-### Breakdown
+## Breakdown
 
 ###### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -80,22 +81,6 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 ![Monday.com](https://img.shields.io/badge/Monday.com-ff3d57?style=for-the-badge&logo=monday.com&logoColor=white)
-
-###### Microsoft Office
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![OneNote](https://img.shields.io/badge/OneNote-7719AA?style=for-the-badge&logo=microsoft-onenote&logoColor=white)
-![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-
-###### Google Workspace
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)
-![Google Slides](https://img.shields.io/badge/Google_Slides-F4B400?style=for-the-badge&logo=google-slides&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)
-![Google Forms](https://img.shields.io/badge/Google_Forms-7248B9?style=for-the-badge&logo=google-forms&logoColor=white)
-
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=butterboypy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
