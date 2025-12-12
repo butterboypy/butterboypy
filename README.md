@@ -8,14 +8,13 @@
 🦆 **Kaggle Enthusiast : My** [Kaggle](https://www.kaggle.com/butterboypy)!<br/>
 📊 **Currently learning about Concepts of AI & Machine Learning and DSA**<br/>
 
-# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bub_codes) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnendudas2002)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnendudas20022002@gmail.com) 
 
-# 💻 Tech Stack: 
+## 💻 Tech Stack: 
 
-## Skills
+### Skills
 ![Gen AI](https://img.shields.io/badge/Gen_AI-1E90FF?style=for-the-badge&logo=ai&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -28,7 +27,7 @@
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Project Management](https://img.shields.io/badge/Project_Management-F15A24?style=for-the-badge&logo=trello&logoColor=white)
 
-## Breakdown
+### Breakdown
 
 ###### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -82,7 +81,7 @@
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 ![Monday.com](https://img.shields.io/badge/Monday.com-ff3d57?style=for-the-badge&logo=monday.com&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=butterboypy&theme=dark&hide_border=false)<br/>
 
 ---
