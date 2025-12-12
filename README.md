@@ -7,7 +7,7 @@
 🎥 I create content about Data Analytics, Data Science, tech, and productivity on Instagram<br/>
 🦆 Kaggle Enthusiast : My [Kaggle](https://www.kaggle.com/butterboypy)!<br/>
 📊 Visualisation Expert<br/>
-📅 **This Week :** Machine Learning Concepts <br/>
+📅 **This Week :** Learning ML Concepts <br/>
 🎯 **Long term Goal :** Data Science and AI-ML Enthusiast<br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bub_codes) 
