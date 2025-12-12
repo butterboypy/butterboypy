@@ -2,12 +2,14 @@
 
 ## 👋 Wassup,It's Butterboy
 
+`Data Analyst • Visualization Enthusiast • Python & SQL Practitioner`
+
 💻 I am an aspiring Data Analyst sharing my journey and learnings in tech<br/>
 🎓 B.Tech EE (electrical engg.), University of Makaut, Kolkata, India<br/>
 🎥 I create content about Data Analytics, Data Science, tech, and productivity on Instagram<br/>
 🦆 Kaggle Enthusiast : My [Kaggle](https://www.kaggle.com/butterboypy)!<br/>
 📊 Visualisation Expert<br/>
-📅 **This Week :** Learning ML Concepts <br/>
+📅 **This Week :** Learning ML Concepts & Busy with Project Management Internship <br/>
 🎯 **Long term Goal :** Data Science and AI-ML Enthusiast<br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bub_codes) 
