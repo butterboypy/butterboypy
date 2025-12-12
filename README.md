@@ -1,12 +1,14 @@
 <!-- Level 1: Simple bio and stats -->
 
-## It's Butterboypy
+## 👋 Wassup,It's Butterboy
 
 💻 I am an aspiring Data Analyst sharing my journey and learnings in tech<br/>
 🎓 B.Tech EE (electrical engg.), University of Makaut, Kolkata, India<br/>
 🎥 I create content about Data Analytics, Data Science, tech, and productivity on Instagram<br/>
 🦆 Kaggle Enthusiast : My [Kaggle](https://www.kaggle.com/butterboypy)!<br/>
-📊 Data Science and AI-ML Enthusiast<br/>
+📊 Visualisation Expert<br/>
+📅 **This Week :** Machine Learning Concepts <br/>
+🎯 **Long term Goal :** Data Science and AI-ML Enthusiast<br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bub_codes) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnendudas2002)
