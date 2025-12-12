@@ -31,7 +31,7 @@
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Project Management](https://img.shields.io/badge/Project_Management-F15A24?style=for-the-badge&logo=trello&logoColor=white)
 
-### Breakdown
+## Breakdown
 `Languages :`
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white) 
