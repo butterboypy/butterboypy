@@ -2,7 +2,7 @@
 
 ## 👋 Wassup,It's Butterboy
 
-`Data Analyst • Visualization Enthusiast • Python & SQL Practitioner`
+`Data Analyst • Visualization Enthusiast • Practicing Codes • Creating Content `
 
 💻 I am an aspiring Data Analyst sharing my journey and learnings in tech<br/>
 🎓 B.Tech EE (electrical engg.), University of Makaut, Kolkata, India<br/>
