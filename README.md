@@ -1,6 +1,6 @@
 <!-- Level 1: Simple bio and stats -->
 
-## 👋 Wassup,It's Butterboy
+## 👋 Hey it's Butterboy!
 
 `Data Analyst • Visualization Enthusiast • Practicing Codes • Creating Content `
 
