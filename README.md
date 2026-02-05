@@ -1,6 +1,6 @@
 <!-- Level 1: Simple bio and stats -->
 
-## 👋 Hey it's Butterboy!
+## 👋 Hey it's Krish aka butterboy
 
 ` Visualization Enthusiast • Practicing Codes • Creating Content `
 
