@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a092a717-9803-4188-8399-17297bbee5b6" /><!-- Level 1: Simple bio and stats -->
+<!-- Level 1: Simple bio and stats <img /> -->
 
 ## 👋 Hey it's Krish
 
