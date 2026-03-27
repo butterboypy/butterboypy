@@ -76,7 +76,7 @@
 ![Monday.com](https://img.shields.io/badge/Monday.com-ff3d57?style=for-the-badge&logo=monday.com&logoColor=white)<br/>
 
 ## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=butterboypy&theme=dark&hide_border=false),br/>
+![](https://nirzak-streak-stats.vercel.app/?user=butterboypy&theme=dark&hide_border=false)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=butterboypy&icon=0&color=1)](https://visitcount.itsvg.in)
