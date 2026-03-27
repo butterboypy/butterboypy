@@ -76,7 +76,7 @@
 ![Monday.com](https://img.shields.io/badge/Monday.com-ff3d57?style=for-the-badge&logo=monday.com&logoColor=white)<br/>
 
 ## 📊 GitHub Stats:
-![][![GitHub Streak](https://streak-stats.demolab.com?user=butterboypy&theme=dark&hide_border=true)](https://git.io/streak-stats)e)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=butterboypy&theme=dark&hide_border=true)](https://git.io/streak-stats)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=butterboypy&icon=0&color=1)](https://visitcount.itsvg.in)
