@@ -78,4 +78,6 @@
 ## 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=butterboypy&theme=dark&hide_border=false),br/>
 
+---
+[![](https://visitcount.itsvg.in/api?id=butterboypy&icon=0&color=1)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
