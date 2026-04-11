@@ -22,7 +22,7 @@
     </td>
     <td>
       <a href="https://x.com/YOUR_USERNAME">
-        <img src="https://cdn.simpleicons.org/x/white" height="33">
+        <img src="https://cdn.simpleicons.org/x/white" height="35">
       </a>
     </td>
   </tr>
