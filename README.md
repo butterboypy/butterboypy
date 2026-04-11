@@ -2,8 +2,6 @@
 
 ## Hi, I'm Krish!
 
-` Visualization Enthusiast • Practicing Codes • Creating Content `
-
 💻 Data Analyst sharing my journey and learnings in tech<br/>
 🎓 B.Tech EE (electrical engg.), [University of Makaut](https://www.google.com/search?gs_ssp=eJzj4tLP1TdIzylOLjMwYPQyKi4tKErNTVXIzssvz0lNSU9VSMsvzUtJLMnMz1NIL8ovLVDIT1PIzCsuySwpBQkWAwDiwBfj&client=opera-gx&q=supreme+knowledge+foundation+group+of+institutions&sourceid=opera&ie=UTF-8&oe=UTF-8), Kolkata, India<br/>
 🦆 Kaggle Enthusiast : My [Kaggle](https://www.kaggle.com/butterboypy)!<br/>
@@ -16,9 +14,8 @@
   <img src="https://cdn.simpleicons.org/x/white" height="33" />
 </p>
 
-# 💻 Tech Stack: 
+## 💻 Tech Stack: 
 
-## Skills
 ![Gen AI](https://img.shields.io/badge/Gen%20AI-white?style=for-the-badge&logo=anthropic&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=postgresql&logoColor=black)
