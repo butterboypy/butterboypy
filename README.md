@@ -20,17 +20,17 @@
 
 ## Skills
 <p align="left">
-  <img src="https://img.shields.io/badge/GEN%20AI-blue" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/EXCEL-green" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PYTHON-yellow?logo=python" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SQL-blue" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/POWERBI-yellow" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/API-blue" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/WEB%20SCRAPING-lightgrey" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CLOUD-blue" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MICROSOFT%20OFFICE-red" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GOOGLE%20WORKSPACE-blue" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PROJECT%20MANAGEMENT-orange" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=excel" height="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=powerbi" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/api" height="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=selenium" height="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" height="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=office" height="40" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=google" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jira" height="40" />
 </p>
 
 ## Breakdown
