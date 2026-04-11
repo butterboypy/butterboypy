@@ -56,13 +56,11 @@
 </p>
 
 `APIs & Web Scraping :`
-![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=requests&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTTPX](https://img.shields.io/badge/HTTPX-0052CC?style=for-the-badge&logo=httpie&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-181717?style=for-the-badge)
-![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)<br/>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40"/>
+</p>
 
 `Databases :`
 <p align="left">
