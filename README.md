@@ -19,17 +19,19 @@
 # 💻 Tech Stack: 
 
 ## Skills
-![Gen AI](https://img.shields.io/badge/Gen_AI-1E90FF?style=for-the-badge&logo=ai&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white) 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![API](https://img.shields.io/badge/API-1E90FF?style=for-the-badge&logo=api&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/Web_Scraping-4B8BBE?style=for-the-badge&logo=internetarchive&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud-00ADEF?style=for-the-badge&logo=cloud&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Project Management](https://img.shields.io/badge/Project_Management-F15A24?style=for-the-badge&logo=trello&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/GEN%20AI-blue" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/EXCEL-green" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PYTHON-yellow?logo=python" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL-blue" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/POWERBI-yellow" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/API-blue" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/WEB%20SCRAPING-lightgrey" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CLOUD-blue" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MICROSOFT%20OFFICE-red" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GOOGLE%20WORKSPACE-blue" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PROJECT%20MANAGEMENT-orange" />
+</p>
 
 ## Breakdown
 `Languages :`
