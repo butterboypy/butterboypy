@@ -1,16 +1,15 @@
 <!-- Level 1: Simple bio and stats <img /> -->
 
-## 👋 Hey it's Krish
+## Hi, I'm Krish!
 
 ` Visualization Enthusiast • Practicing Codes • Creating Content `
 
 💻 Data Analyst sharing my journey and learnings in tech<br/>
-🎓 B.Tech EE (electrical engg.), University of Makaut, Kolkata, India<br/>
+🎓 B.Tech EE (electrical engg.), [University of Makaut](https://www.google.com/search?gs_ssp=eJzj4tLP1TdIzylOLjMwYPQyKi4tKErNTVXIzssvz0lNSU9VSMsvzUtJLMnMz1NIL8ovLVDIT1PIzCsuySwpBQkWAwDiwBfj&client=opera-gx&q=supreme+knowledge+foundation+group+of+institutions&sourceid=opera&ie=UTF-8&oe=UTF-8), Kolkata, India<br/>
 🦆 Kaggle Enthusiast : My [Kaggle](https://www.kaggle.com/butterboypy)!<br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bub_codes) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnendudas2002)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnendudas20022002@gmail.com) 
+[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=)](https://instagram.com/bub_codes)
+[![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=)](https://linkedin.com/in/krishnendudas2002)
 
 # 💻 Tech Stack: 
 
