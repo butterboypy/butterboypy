@@ -10,10 +10,10 @@
 
 <p align="left">
   <a href="https://instagram.com/bub_codes">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="28" style="fill:#E4405F;" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
   <a href="https://linkedin.com/in/krishnendudas2002">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="28" style="fill:#0A66C2;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
 </p>
 
