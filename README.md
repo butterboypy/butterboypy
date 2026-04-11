@@ -16,6 +16,14 @@
   <img src="https://cdn.simpleicons.org/x/white" height="33" />
 </p>
 
+<p align="left">
+  <img src="https://cdn.simpleicons.org/instagram/black" height="35" style="background:white; padding:6px; border-radius:6px;" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/linkedin/black" height="35" style="background:white; padding:6px; border-radius:6px;" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/x/black" height="33" style="background:white; padding:6px; border-radius:6px;" />
+</p>
+
 # 💻 Tech Stack: 
 
 ## Skills
