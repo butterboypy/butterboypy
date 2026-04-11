@@ -7,11 +7,11 @@
 🦆 Kaggle Enthusiast : My [Kaggle](https://www.kaggle.com/butterboypy)!<br/>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=instagram" height="35" />
+  <img src="https://skillicons.dev/icons?i=instagram" height="30" />
   &nbsp;
-  <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/x/white" height="33" />
+  <img src="https://cdn.simpleicons.org/x/white" height="27" />
 </p>
 
 ## 💻 Tech Stack: 
