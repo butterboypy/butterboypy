@@ -29,62 +29,6 @@
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Project Management & Tools](https://img.shields.io/badge/Project%20Management%20%26%20Tools-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-## Breakdown
-`Languages :`
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" height="40"/>
-</p>
-
-`Visualisation :`
-<p align="left">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tableau/E97627" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googleanalytics/4285F4" height="40"/>
-</p>
-
-`Frameworks/ Libraries :`
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pandas" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=matplotlib" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sklearn" height="40"/>
-</p>
-
-`APIs & Web Scraping :`
-<p align="left">
-  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40"/>
-</p>
-
-`Databases :`
-<p align="left">
-  <img src="https://cdn.simpleicons.org/python" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=flask" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/scrapy/60A839" height="40"/>
-</p>
-
-`Cloud / Devops :`
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=azure" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=gcp" height="40"/>
-</p>
-
-`Project Management Productivity Tools :`
-<p align="left">
-  <img src="https://cdn.simpleicons.org/jira/0052CC" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/notion/000000" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/clickup/7B68EE" height="40"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mondaydotcom/FF3D57" height="40"/>
-</p>
-
 ## 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=butterboypy&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br/>
 
