@@ -19,19 +19,17 @@
 # 💻 Tech Stack: 
 
 ## Skills
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ai" height="40" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=excel" height="40" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" height="40" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=powerbi" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/api" height="40" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=selenium" height="40" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" height="40" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=office" height="40" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=google" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/jira" height="40" />
-</p>
+![Gen AI](https://img.shields.io/badge/Gen%20AI-0B3D91?style=for-the-badge&logo=openai&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![API](https://img.shields.io/badge/API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
+![Project Management](https://img.shields.io/badge/Project%20Management-FF6F00?style=for-the-badge&logo=trello&logoColor=white)
 
 ## Breakdown
 `Languages :`
