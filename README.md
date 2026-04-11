@@ -8,25 +8,13 @@
 🎓 B.Tech EE (electrical engg.), [University of Makaut](https://www.google.com/search?gs_ssp=eJzj4tLP1TdIzylOLjMwYPQyKi4tKErNTVXIzssvz0lNSU9VSMsvzUtJLMnMz1NIL8ovLVDIT1PIzCsuySwpBQkWAwDiwBfj&client=opera-gx&q=supreme+knowledge+foundation+group+of+institutions&sourceid=opera&ie=UTF-8&oe=UTF-8), Kolkata, India<br/>
 🦆 Kaggle Enthusiast : My [Kaggle](https://www.kaggle.com/butterboypy)!<br/>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://instagram.com/bub_codes">
-        <img src="https://skillicons.dev/icons?i=instagram" height="35">
-      </a>
-    </td>
-    <td>
-      <a href="https://linkedin.com/in/krishnendudas2002">
-        <img src="https://skillicons.dev/icons?i=linkedin" height="35">
-      </a>
-    </td>
-    <td>
-      <a href="https://x.com/YOUR_USERNAME">
-        <img src="https://cdn.simpleicons.org/x/white" height="35">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=instagram" height="35" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/x/white" height="35" />
+</p>
 
 # 💻 Tech Stack: 
 
