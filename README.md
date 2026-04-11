@@ -15,8 +15,8 @@
   <a href="https://linkedin.com/in/krishnendudas2002">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
   </a>
-  <a href="https://twitter.com/YOUR_USERNAME">
-    <img src="https://skillicons.dev/icons?i=twitter" height="35" />
+  <a href="https://x.com/YOUR_USERNAME">
+    <img src="https://cdn.simpleicons.org/x/ffffff" height="35" />
   </a>
 </p>
 
