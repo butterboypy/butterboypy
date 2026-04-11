@@ -8,13 +8,14 @@
 🎓 B.Tech EE (electrical engg.), [University of Makaut](https://www.google.com/search?gs_ssp=eJzj4tLP1TdIzylOLjMwYPQyKi4tKErNTVXIzssvz0lNSU9VSMsvzUtJLMnMz1NIL8ovLVDIT1PIzCsuySwpBQkWAwDiwBfj&client=opera-gx&q=supreme+knowledge+foundation+group+of+institutions&sourceid=opera&ie=UTF-8&oe=UTF-8), Kolkata, India<br/>
 🦆 Kaggle Enthusiast : My [Kaggle](https://www.kaggle.com/butterboypy)!<br/>
 
-<a href="https://instagram.com/bub_codes" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="30" />
-</a>
-
-<a href="https://linkedin.com/in/krishnendudas2002" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30" />
-</a>
+<p align="left">
+  <a href="https://instagram.com/bub_codes">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" />
+  </a>
+  <a href="https://linkedin.com/in/krishnendudas2002">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" />
+  </a>
+</p>
 
 # 💻 Tech Stack: 
 
