@@ -17,11 +17,11 @@
 </p>
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/instagram/black" height="35" style="background:white; padding:6px; border-radius:6px;" />
+  <img src="https://cdn.simpleicons.org/instagram/black" height="35" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/linkedin/black" height="35" style="background:white; padding:6px; border-radius:6px;" />
+  <img src="https://cdn.simpleicons.org/linkedin/black" height="35" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/x/black" height="33" style="background:white; padding:6px; border-radius:6px;" />
+  <img src="https://cdn.simpleicons.org/x/black" height="33" />
 </p>
 
 # 💻 Tech Stack: 
