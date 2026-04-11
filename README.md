@@ -16,7 +16,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
   </a>
   <a href="https://x.com/YOUR_USERNAME">
-    <img src="https://cdn.simpleicons.org/x/ffffff" height="34" />
+    <img src="https://cdn.simpleicons.org/x/ffffff" height="32" />
   </a>
 </p>
 
