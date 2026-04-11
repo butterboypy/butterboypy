@@ -9,7 +9,7 @@
 🦆 Kaggle Enthusiast : My [Kaggle](https://www.kaggle.com/butterboypy)!<br/>
 
 [![Instagram](https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white&label=)](https://instagram.com/bub_codes)
-[![LinkedIn](https://img.shields.io/badge/-0077B5?style=flat&logo=linkedin&logoColor=white&label=)](https://linkedin.com/in/krishnendudas2002)
+[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat&logo=linkedin&logoColor=white&label=)](https://linkedin.com/in/krishnendudas2002)
 
 # 💻 Tech Stack: 
 
