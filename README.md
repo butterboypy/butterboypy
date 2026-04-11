@@ -27,7 +27,7 @@
 ![API](https://img.shields.io/badge/API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft365&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
 ![Project Management](https://img.shields.io/badge/Project%20Management-FF6F00?style=for-the-badge&logo=trello&logoColor=white)
 
