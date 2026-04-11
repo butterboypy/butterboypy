@@ -13,7 +13,7 @@
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/x/white" height="35" />
+  <img src="https://cdn.simpleicons.org/x/white" height="33" />
 </p>
 
 # 💻 Tech Stack: 
