@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://instagram.com/bub_codes">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="28" style="margin-right:10px;" />
   </a>
   <a href="https://linkedin.com/in/krishnendudas2002">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" />
