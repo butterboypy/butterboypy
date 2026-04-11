@@ -9,14 +9,14 @@
 🦆 Kaggle Enthusiast : My [Kaggle](https://www.kaggle.com/butterboypy)!<br/>
 
 <p align="left">
-  <a href="https://instagram.com/bub_codes">
-    <img src="https://skillicons.dev/icons?i=instagram" height="35" />
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/krishnendudas2002">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/YOUR_USERNAME">
-    <img src="https://cdn.simpleicons.org/x/ffffff" height="33" />
+  <a href="https://instagram.com/bub_codes" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=instagram" height="35" style="margin-right:10px;" />
+  </a>
+  <a href="https://linkedin.com/in/krishnendudas2002" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" style="margin-right:10px;" />
+  </a>
+  <a href="https://x.com/YOUR_USERNAME" style="text-decoration: none;">
+    <img src="https://cdn.simpleicons.org/x/ffffff" height="35" />
   </a>
 </p>
 
