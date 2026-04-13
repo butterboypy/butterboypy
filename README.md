@@ -4,6 +4,14 @@
 
 💻 Data Analyst sharing my journey and learnings in tech<br/>
 🎓 B.Tech EE (electrical engg.), [University of Makaut](https://www.google.com/search?gs_ssp=eJzj4tLP1TdIzylOLjMwYPQyKi4tKErNTVXIzssvz0lNSU9VSMsvzUtJLMnMz1NIL8ovLVDIT1PIzCsuySwpBQkWAwDiwBfj&client=opera-gx&q=supreme+knowledge+foundation+group+of+institutions&sourceid=opera&ie=UTF-8&oe=UTF-8), Kolkata, India<br/>
+📊 What I’m Currently Focused On
+ 
+- Automation in Data Analytics
+ Exploring how to automate repetitive workflows using tools like N8N with Python, BI tools, and data processing techniques to improve efficiency.
+ 
+- Analytics + AI Exploration
+ Learning how to effectively use Gen AI and how i can enhance analytics workflows and support smarter decision-making
+ 
 🦆 Kaggle Enthusiast : My [Kaggle](https://www.kaggle.com/butterboypy)!<br/>
 
 <p align="left">
