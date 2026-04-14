@@ -35,7 +35,8 @@
 ![Project Management & Tools](https://img.shields.io/badge/Project%20Management%20%26%20Tools-white?style=for-the-badge&logo=jira&logoColor=black)
 
 ## 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=butterboypy&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=butterboypy&show_icons=true&theme=dark)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=butterboypy&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=butterboypy&icon=0&color=1)](https://visitcount.itsvg.in)
