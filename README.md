@@ -37,7 +37,7 @@
 ## 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=butterboypy&show_icons=true&theme=dark)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=butterboypy&theme=dark)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=butterboypy&theme=dark)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=butterboypy&icon=0&color=1)](https://visitcount.itsvg.in)
