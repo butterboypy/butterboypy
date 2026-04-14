@@ -35,6 +35,7 @@
 ![Project Management & Tools](https://img.shields.io/badge/Project%20Management%20%26%20Tools-white?style=for-the-badge&logo=jira&logoColor=black)
 
 ## 📊 GitHub Stats:
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=butterboypy&show_icons=true&theme=dark)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=butterboypy&theme=dark)
 
