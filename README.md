@@ -1,6 +1,6 @@
 <!-- Level 1: Simple bio and stats <img /> -->
 
-### Hi I'm Krish!
+## Hi I'm Krish!
 
 ---
 
@@ -22,7 +22,7 @@
   <img src="https://cdn.simpleicons.org/x/white" height="27" />
 </p>
 
-### 💻 Tech Stack: 
+## 💻 Tech Stack: 
 ---
 - Python, Sql, Excel, Power Bi, Tableau , Web Scraping & API
 - Gen Ai - Chatgpt, Gemini, Claude, Base 44, Antigravity
@@ -40,7 +40,7 @@
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-white?style=for-the-badge&logo=google&logoColor=black)
 ![Project Management Tools](https://img.shields.io/badge/Project%20Management%20%26%20Tools-white?style=for-the-badge&logo=jira&logoColor=black)
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=butterboypy&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=7D8FA3&border=1E2A3A)](https://git.io/streak-stats)<br/>
 
