@@ -18,7 +18,7 @@
 
 ## 💻 Tech Stack: 
 
-- Python, Sql, Excel, Power Bi, Tableau , Web Scraping & API
+- Data Analysis - Python, Sql, Excel, Power Bi, Tableau , Web Scraping & API
 - Gen Ai - Chatgpt, Gemini, Claude, Base 44, Antigravity
 - Cloud - Azure , GCP
 - Project Management - Click Up, Asana, Notion
