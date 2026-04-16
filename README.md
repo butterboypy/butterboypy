@@ -1,6 +1,7 @@
 <!-- Level 1: Simple bio and stats <img /> -->
 
 <h1 style="border-bottom: none">Hi, I'm Krish!</h1>
+
 ---
 
 💻 Data Analyst sharing my journey and learnings in tech<br/>
