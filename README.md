@@ -4,6 +4,7 @@
 
 💻 Data Analyst sharing my journey and learnings in tech<br/>
 🎓 B.Tech EE (electrical engg.), [University of Makaut](https://www.google.com/search?gs_ssp=eJzj4tLP1TdIzylOLjMwYPQyKi4tKErNTVXIzssvz0lNSU9VSMsvzUtJLMnMz1NIL8ovLVDIT1PIzCsuySwpBQkWAwDiwBfj&client=opera-gx&q=supreme+knowledge+foundation+group+of+institutions&sourceid=opera&ie=UTF-8&oe=UTF-8), Kolkata, India<br/>
+
 📊 What I’m Currently Focused On
  
 - Automation in Data Analytics
@@ -11,16 +12,14 @@
  
 - Analytics + AI Exploration
  Learning how to effectively use Gen AI and how i can enhance analytics workflows and support smarter decision-making
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/bub_codes) 
+
+[![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/bub_codes) 
 [![Twitter](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=x&logoColor=black)](https://twitter.com/bub_codes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/krishnendudas2002/) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/krishnendudas2002/)
 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-1F6FEB?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bub_codes)
 [![Twitter](https://img.shields.io/badge/Twitter-1F6FEB?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/bub_codes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnendudas2002/) -->
-[![Instagram](https://img.shields.io/badge/Instagram-4a9eff?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/bub_codes)
-[![Twitter](https://img.shields.io/badge/Twitter-4a9eff?style=for-the-badge&logo=x&logoColor=black)](https://twitter.com/bub_codes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4a9eff?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/krishnendudas2002/)
 
 ## 💻 Tech Stack: 
 
@@ -29,7 +28,7 @@
 - Cloud - Azure , GCP
 - Project Management - Click Up, Asana, Notion
 - Microsoft Office 365, Google Workspace
-<!-- ![Gen AI](https://img.shields.io/badge/Gen%20AI-white?style=for-the-badge&logo=anthropic&logoColor=black)
+![Gen AI](https://img.shields.io/badge/Gen%20AI-white?style=for-the-badge&logo=anthropic&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=postgresql&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power%20BI-white?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -37,7 +36,7 @@
 ![Cloud](https://img.shields.io/badge/Cloud-white?style=for-the-badge&logo=googlecloud&logoColor=black)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-white?style=for-the-badge&logo=microsoftoffice&logoColor=black)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-white?style=for-the-badge&logo=google&logoColor=black)
-![Project Management Tools](https://img.shields.io/badge/Project%20Management%20%26%20Tools-white?style=for-the-badge&logo=jira&logoColor=black)-->
+![Project Management Tools](https://img.shields.io/badge/Project%20Management%20%26%20Tools-white?style=for-the-badge&logo=jira&logoColor=black)
 
 <!-- ![Gen AI](https://img.shields.io/badge/Gen%20AI-1F6FEB?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1F6FEB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,15 +47,6 @@
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-1F6FEB?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-1F6FEB?style=for-the-badge&logo=google&logoColor=white)
 ![Project Management Tools](https://img.shields.io/badge/Project%20Management%20%26%20Tools-1F6FEB?style=for-the-badge&logo=jira&logoColor=white) -->
-![Gen AI](https://img.shields.io/badge/Gen%20AI-4a9eff?style=for-the-badge&logo=anthropic&logoColor=black)
-![Python](https://img.shields.io/badge/Python-4a9eff?style=for-the-badge&logo=python&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4a9eff?style=for-the-badge&logo=postgresql&logoColor=black)
-![Power BI](https://img.shields.io/badge/Power%20BI-4a9eff?style=for-the-badge&logo=powerbi&logoColor=black)
-![Web Scraping & API](https://img.shields.io/badge/Web%20Scraping%20%26%20API-4a9eff?style=for-the-badge&logo=fastapi&logoColor=black)
-![Cloud](https://img.shields.io/badge/Cloud-4a9eff?style=for-the-badge&logo=googlecloud&logoColor=black)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-4a9eff?style=for-the-badge&logo=microsoftoffice&logoColor=black)
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4a9eff?style=for-the-badge&logo=google&logoColor=black)
-![Project Management Tools](https://img.shields.io/badge/Project%20Management%20%26%20Tools-4a9eff?style=for-the-badge&logo=jira&logoColor=black)
 
 ## 📊 GitHub Stats:
 
