@@ -41,8 +41,7 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=butterboypy&show_icons=true&theme=dark)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=butterboypy&theme=dark)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=butterboypy&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=7D8FA3&border=1E2A3A)](https://git.io/streak-stats)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=butterboypy&icon=0&color=1)](https://visitcount.itsvg.in)
