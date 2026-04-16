@@ -2,6 +2,8 @@
 
 ## Hi, I'm Krish!
 
+---
+
 💻 Data Analyst sharing my journey and learnings in tech<br/>
 🎓 B.Tech EE (electrical engg.), [University of Makaut](https://www.google.com/search?gs_ssp=eJzj4tLP1TdIzylOLjMwYPQyKi4tKErNTVXIzssvz0lNSU9VSMsvzUtJLMnMz1NIL8ovLVDIT1PIzCsuySwpBQkWAwDiwBfj&client=opera-gx&q=supreme+knowledge+foundation+group+of+institutions&sourceid=opera&ie=UTF-8&oe=UTF-8), Kolkata, India<br/>
 📊 What I’m Currently Focused On
