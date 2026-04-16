@@ -18,6 +18,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-1F6FEB?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bub_codes)
 [![Twitter](https://img.shields.io/badge/Twitter-1F6FEB?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/bub_codes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnendudas2002/)
+
 ## 💻 Tech Stack: 
 
 - Data Analysis - Python, Sql, Excel, Power Bi, Tableau , Web Scraping & API
