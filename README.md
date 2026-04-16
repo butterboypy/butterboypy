@@ -2,8 +2,6 @@
 
 ## Hi I'm Krish!
 
----
-
 💻 Data Analyst sharing my journey and learnings in tech<br/>
 🎓 B.Tech EE (electrical engg.), [University of Makaut](https://www.google.com/search?gs_ssp=eJzj4tLP1TdIzylOLjMwYPQyKi4tKErNTVXIzssvz0lNSU9VSMsvzUtJLMnMz1NIL8ovLVDIT1PIzCsuySwpBQkWAwDiwBfj&client=opera-gx&q=supreme+knowledge+foundation+group+of+institutions&sourceid=opera&ie=UTF-8&oe=UTF-8), Kolkata, India<br/>
 📊 What I’m Currently Focused On
@@ -23,7 +21,7 @@
 </p>
 
 ## 💻 Tech Stack: 
----
+
 - Python, Sql, Excel, Power Bi, Tableau , Web Scraping & API
 - Gen Ai - Chatgpt, Gemini, Claude, Base 44, Antigravity
 - Cloud - Azure , GCP
@@ -41,9 +39,8 @@
 ![Project Management Tools](https://img.shields.io/badge/Project%20Management%20%26%20Tools-white?style=for-the-badge&logo=jira&logoColor=black)
 
 ## 📊 GitHub Stats:
----
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=butterboypy&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=7D8FA3&border=1E2A3A)](https://git.io/streak-stats)<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=butterboypy&icon=0&color=1)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
