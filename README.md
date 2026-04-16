@@ -36,7 +36,7 @@
 ![Cloud](https://img.shields.io/badge/Cloud-white?style=for-the-badge&logo=googlecloud&logoColor=black)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-white?style=for-the-badge&logo=microsoftoffice&logoColor=black)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-white?style=for-the-badge&logo=google&logoColor=black)
-![Project Management & Tools](https://img.shields.io/badge/Project%20Management%20%26%20Tools-white?style=for-the-badge&logo=jira&logoColor=black)
+![Project Management Tools](https://img.shields.io/badge/Project%20Management%20%26%20Tools-white?style=for-the-badge&logo=jira&logoColor=black)
 
 ## 📊 GitHub Stats:
 
