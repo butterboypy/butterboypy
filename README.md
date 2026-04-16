@@ -11,10 +11,9 @@
  
 - Analytics + AI Exploration
  Learning how to effectively use Gen AI and how i can enhance analytics workflows and support smarter decision-making
-
-[![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/bub_codes)
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/bub_codes) 
 [![Twitter](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=x&logoColor=black)](https://twitter.com/bub_codes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/krishnendudas2002/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/krishnendudas2002/) -->
 
 [![Instagram](https://img.shields.io/badge/Instagram-1F6FEB?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bub_codes)
 [![Twitter](https://img.shields.io/badge/Twitter-1F6FEB?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/bub_codes)
