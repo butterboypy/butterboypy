@@ -22,6 +22,12 @@
 
 ## 💻 Tech Stack: 
 
+- Python, Sql, Excel, Power Bi, Tableau , Web Scraping & API
+- Gen Ai - Chatgpt, Gemini, Claude, Base 44, Antigravity
+- Cloud - Azure , GCP
+- Project Management - Click Up, Asana, Notion
+- Microsoft Office 365, Google Workspace
+
 ![Gen AI](https://img.shields.io/badge/Gen%20AI-white?style=for-the-badge&logo=anthropic&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=postgresql&logoColor=black)
