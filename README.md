@@ -1,6 +1,6 @@
 <!-- Level 1: Simple bio and stats <img /> -->
 
-**Hi, I'm Krish!**
+### Hi I'm Krish!
 
 ---
 
