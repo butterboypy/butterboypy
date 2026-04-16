@@ -25,8 +25,7 @@
 - Cloud - Azure , GCP
 - Project Management - Click Up, Asana, Notion
 - Microsoft Office 365, Google Workspace
-
-![Gen AI](https://img.shields.io/badge/Gen%20AI-white?style=for-the-badge&logo=anthropic&logoColor=black)
+<!-- ![Gen AI](https://img.shields.io/badge/Gen%20AI-white?style=for-the-badge&logo=anthropic&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=postgresql&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power%20BI-white?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -34,7 +33,17 @@
 ![Cloud](https://img.shields.io/badge/Cloud-white?style=for-the-badge&logo=googlecloud&logoColor=black)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-white?style=for-the-badge&logo=microsoftoffice&logoColor=black)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-white?style=for-the-badge&logo=google&logoColor=black)
-![Project Management Tools](https://img.shields.io/badge/Project%20Management%20%26%20Tools-white?style=for-the-badge&logo=jira&logoColor=black)
+![Project Management Tools](https://img.shields.io/badge/Project%20Management%20%26%20Tools-white?style=for-the-badge&logo=jira&logoColor=black)-->
+
+![Gen AI](https://img.shields.io/badge/Gen%20AI-1F6FEB?style=for-the-badge&logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1F6FEB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1F6FEB?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-1F6FEB?style=for-the-badge&logo=powerbi&logoColor=white)
+![Web Scraping & API](https://img.shields.io/badge/Web%20Scraping%20%26%20API-1F6FEB?style=for-the-badge&logo=fastapi&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-1F6FEB?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-1F6FEB?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-1F6FEB?style=for-the-badge&logo=google&logoColor=white)
+![Project Management Tools](https://img.shields.io/badge/Project%20Management%20%26%20Tools-1F6FEB?style=for-the-badge&logo=jira&logoColor=white)
 
 ## 📊 GitHub Stats:
 
