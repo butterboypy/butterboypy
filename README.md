@@ -11,8 +11,6 @@
  
 - Analytics + AI Exploration
  Learning how to effectively use Gen AI and how i can enhance analytics workflows and support smarter decision-making
- 
-🦆 Kaggle Enthusiast : My [Kaggle](https://www.kaggle.com/butterboypy)!<br/>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=instagram" height="30" />
