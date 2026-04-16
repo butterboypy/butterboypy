@@ -1,6 +1,6 @@
 <!-- Level 1: Simple bio and stats <img /> -->
 
-## Hi I'm Krish!
+## 👋 Hi I'm Krish!
 
 💻 Data Analyst sharing my journey and learnings in tech<br/>
 🎓 B.Tech EE (electrical engg.), [University of Makaut](https://www.google.com/search?gs_ssp=eJzj4tLP1TdIzylOLjMwYPQyKi4tKErNTVXIzssvz0lNSU9VSMsvzUtJLMnMz1NIL8ovLVDIT1PIzCsuySwpBQkWAwDiwBfj&client=opera-gx&q=supreme+knowledge+foundation+group+of+institutions&sourceid=opera&ie=UTF-8&oe=UTF-8), Kolkata, India<br/>
@@ -38,5 +38,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=butterboypy&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=7D8FA3&border=1E2A3A)](https://git.io/streak-stats)<br/>
 
----
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
