@@ -24,7 +24,7 @@
 ## 💻 Tech Stack: 
 
 - Data Analysis - Python, Sql, Excel, Power Bi, Tableau , Web Scraping & API
-- Libraries - Numpy, Pandas, Matplotlib
+- Libraries - Numpy, Pandas
 - Gen Ai - Chatgpt, Gemini, Claude, Base 44, Antigravity
 - Cloud - Azure , GCP
 - Project Management - Click Up, Asana, Notion
