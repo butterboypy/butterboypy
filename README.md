@@ -27,7 +27,7 @@
 - Libraries - Numpy, Pandas, Matplotlib, Selenium
 - Gen Ai - Chatgpt, Gemini, Claude, Base 44, Antigravity
 - Cloud - Azure , GCP, AWS
-- Project Management - Click Up, Asana, Notion
+- Project Management - Click Up, Asana, Notion, Jira
 - Microsoft Office 365, Google Workspace
 
 ![Gen AI](https://img.shields.io/badge/Gen%20AI-white?style=for-the-badge&logo=anthropic&logoColor=black)
