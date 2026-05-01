@@ -24,7 +24,7 @@
 ## 💻 Tech Stack: 
 
 - Data Analysis - Python, Sql, Excel, Power Bi, Tableau , Web Scraping & API
-- Libraries - Numpy, Pandas, Matplotlib, Selenium, BeautifulSoup
+- Libraries - Numpy, Pandas, Matplotlib, Seaborn, Selenium, BeautifulSoup
 - Gen Ai - Chatgpt, Gemini, Copilot, Claude, Base 44
 - Cloud - Azure , GCP, AWS
 - Project Management - Click Up, Asana, Notion, Jira
