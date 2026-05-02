@@ -25,7 +25,7 @@
 
 - Data Analysis - Python, Sql, Excel, Power Bi, Tableau , Web Scraping & API
 - Libraries - Numpy, Pandas, Matplotlib, Seaborn, Selenium, BeautifulSoup
-- Gen Ai - Chatgpt, Gemini, Copilot, Claude, Base 44
+- Gen Ai - Chatgpt, Gemini, Copilot, Claude
 - Cloud - Azure , GCP, AWS
 - Project Management - Click Up, Asana, Notion, Jira
 - Microsoft Office 365, Google Workspace
