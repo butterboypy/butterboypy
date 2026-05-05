@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4e2d8b22-bbc8-46bf-8669-732c97f90627" /><!-- Level 1: Simple bio and stats <img /> -->
-
 ## 😼 About Me:
 👋 Hi I'm Krish!
 💻 Data Analyst sharing my journey and learnings in tech<br/>
