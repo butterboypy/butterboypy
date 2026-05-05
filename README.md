@@ -1,4 +1,4 @@
-<!-- Level 1: Simple bio and stats <img /> -->
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4e2d8b22-bbc8-46bf-8669-732c97f90627" /><!-- Level 1: Simple bio and stats <img /> -->
 
 ## 😼 About Me:
 👋 Hi I'm Krish!
@@ -23,12 +23,13 @@
 
 ## 💻 Tech Stack: 
 
-- Data Analysis - Python, Sql, Excel, Power Bi, Tableau, Web Scraping & API
+- Tools - Python, Sql, Excel, Power Bi, Tableau
 - Libraries - Numpy, Pandas, Matplotlib, Seaborn, Selenium, BeautifulSoup
 - Gen Ai - Chatgpt, Gemini, Copilot, Claude, Base 44
 - Cloud - Azure , GCP, AWS
 - Project Management - Click Up, Asana, Notion, Jira
 - Microsoft Office 365, Google Workspace
+- Data Analysis , Web Scraping, ETL, Pipeline
 
 ![Gen AI](https://img.shields.io/badge/Gen%20AI-white?style=for-the-badge&logo=anthropic&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black)
