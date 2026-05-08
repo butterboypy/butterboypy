@@ -28,7 +28,7 @@
 - Cloud - Azure , GCP, AWS
 - Project Management - Click Up, Asana, Notion, Jira
 - Microsoft Office 365, Google Workspace
-- Data Analysis, Web Scraping, ETL, N8N Automation, Pipeline
+- Data Analysis, Data Visualisation, Web Scraping, ETL, N8N Automation, Pipeline
 
 ![Gen AI](https://img.shields.io/badge/Gen%20AI-white?style=for-the-badge&logo=anthropic&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black)
