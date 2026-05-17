@@ -22,13 +22,13 @@
 
 ## 💻 Tech Stack: 
 
-- Tools - Python, Sql, Excel, Power Bi, Tableau
+- Tools - Python, Sql, Excel, Power Bi, Tableau, N8N
 - Libraries - Numpy, Pandas, Matplotlib, Seaborn, Selenium, BeautifulSoup
 - Gen Ai - Chatgpt, Gemini, Copilot, Claude, Base 44, Grok
 - Cloud - Azure , GCP, AWS
 - Project Management - Click Up, Asana, Notion, Jira
 - Microsoft Office 365, Google Workspace
-- Data Analysis, Data Visualisation, Web Scraping, Data Mining, ETL, N8N
+- Data Analysis, Data Visualisation, Web Scraping, Data Mining, ETL
 
 ![Gen AI](https://img.shields.io/badge/Gen%20AI-white?style=for-the-badge&logo=anthropic&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black)
