@@ -52,8 +52,5 @@
 
 ## 📊 GitHub Stats:
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=butterboypy&show_icons=true&theme=dark&bg_color=0D1117&border_color=1E2A3A&icon_color=58A6FF&title_color=58A6FF&text_color=FFFFFF)](https://github.com/butterboypy)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=butterboypy&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=7D8FA3&border=1E2A3A)](https://github.com/butterboypy)
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=butterboypy&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=7D8FA3&border=1E2A3A&v=2)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=butterboypy&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=7D8FA3&border=1E2A3A&v=2)](https://git.io/streak-stats)<br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
