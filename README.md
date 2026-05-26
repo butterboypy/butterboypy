@@ -22,10 +22,10 @@
 
 ## 💻 Tech Stack: 
 
-- Tools - Python, Sql, Excel, Power Bi, Tableau
+- Tools - Python, Sql, Excel, Power Bi, Tableau, N8N
 - Libraries - Numpy, Pandas, Matplotlib, Seaborn, Selenium, BeautifulSoup
 - Gen Ai - Chatgpt, Gemini, Copilot, Claude, Base 44, Grok
-- Cloud - Azure, GCP, AWS, DataBrick, Snowflake
+- Cloud - Azure, GCP, AWS, DataBrick
 - Project Management - Click Up, Asana, Notion, Jira
 - Microsoft Office 365, Google Workspace
 - Data Analysis, Data Visualisation, Web Scraping, Data Mining
