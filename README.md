@@ -14,7 +14,7 @@
 
 ## 💻 Tech Stack: 
 
-- Tools - Python, Sql, Excel, Power Bi, Tableau, N8N
+- Tools - Python, Sql, Excel, Power Bi, Tableau
 - Libraries - Numpy, Pandas, Matplotlib, Seaborn, Selenium, BeautifulSoup
 - Gen Ai - Chatgpt, Gemini, Copilot, Claude, Base 44, Grok
 - Cloud - Azure, GCP, AWS, Snowflake
