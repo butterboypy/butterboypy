@@ -14,7 +14,7 @@
 
 ## 💻 Tech Stack: 
 
-Check my ![certifications](https://github.com/butterboypy/Certifications)
+- My Certifications - https://github.com/butterboypy/Certifications)
 - Tools - Python, Sql, Excel, Power Bi, Tableau
 - Libraries - Numpy, Pandas, Matplotlib, Seaborn, Selenium, BeautifulSoup
 - Gen Ai - Chatgpt, Gemini, Copilot, Claude, Base 44, Grok
