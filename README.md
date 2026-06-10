@@ -1,8 +1,8 @@
 ## 😼 About Me:
 
 👋 I'm Krish!<br/>
+🍜 I write scripts, build pipelines, dashboards & provide analytical solutions that uses Data<br/>
 💻 Data Analyst sharing my journey and learnings in tech<br/>
-🎓 B.Tech EE (electrical engg.), University of Makaut, Kolkata, India<br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/bub_codes) 
 [![Twitter](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=x&logoColor=black)](https://twitter.com/bub_codes)
