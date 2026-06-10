@@ -44,5 +44,5 @@
 
 ## 📊 GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=butterboypy&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=7D8FA3&border=1E2A3A&v=2)](https://git.io/streak-stats)<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=butterboypy&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=7D8FA3&border=1E2A3A)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
