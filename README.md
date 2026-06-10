@@ -44,5 +44,9 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=butterboypy&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=7D8FA3&border=1E2A3A)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=butterboypy&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=7D8FA3&border=1E2A3A)
+
+![Krish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=butterboypy&show_icons=true&theme=dark&bg_color=0D1117&border_color=1E2A3A&icon_color=58A6FF&title_color=58A6FF)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=butterboypy&layout=compact&theme=dark&bg_color=0D1117&border_color=1E2A3A&title_color=58A6FF)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
