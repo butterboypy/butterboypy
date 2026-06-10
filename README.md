@@ -42,7 +42,7 @@
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-1F6FEB?style=for-the-badge&logo=google&logoColor=white)
 ![Project Management Tools](https://img.shields.io/badge/Project%20Management%20%26%20Tools-1F6FEB?style=for-the-badge&logo=jira&logoColor=white) -->
 
-## 📊 GitHub Stats:
+<!--## 📊 GitHub Stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=butterboypy&theme=dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=7D8FA3&border=1E2A3A&v=3)](https://git.io/streak-stats)<br/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
