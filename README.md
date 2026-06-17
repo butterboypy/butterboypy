@@ -4,11 +4,12 @@
 🍜 I write scripts, build pipelines, dashboards & provide analytical solutions that uses Data<br/>
 💻 Data Analyst sharing my journey and learnings in tech<br/>
 
+[![Resume](https://img.shields.io/badge/Resume-white?style=for-the-badge&logo=readme&logoColor=black)](YOUR_RESUME_LINK_HERE)
+[![Certifications](https://img.shields.io/badge/Certifications-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/butterboypy/Certifications)
 [![Instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black)](https://instagram.com/bub_codes) 
 [![Twitter](https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=x&logoColor=black)](https://twitter.com/bub_codes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/krishnendudas2002/)
-[![Certifications](https://img.shields.io/badge/Certifications-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/butterboypy/Certifications)
-[![Resume](https://img.shields.io/badge/Resume-white?style=for-the-badge&logo=readme&logoColor=black)](YOUR_RESUME_LINK_HERE)
+
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-1F6FEB?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bub_codes)
 [![Twitter](https://img.shields.io/badge/Twitter-1F6FEB?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/bub_codes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F6FEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnendudas2002/) -->
