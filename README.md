@@ -24,7 +24,7 @@
 - Microsoft Office 365, Google Workspace
 - Data Analysis, Data Visualisation, Web Scraping, Data Mining
 
-![Gen AI](https://img.shields.io/badge/Gen%20AI-white?style=for-the-badge&logo=anthropic&logoColor=black)
+<!-- ![Gen AI](https://img.shields.io/badge/Gen%20AI-white?style=for-the-badge&logo=anthropic&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=postgresql&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power%20BI-white?style=for-the-badge&logo=powerbi&logoColor=black)
