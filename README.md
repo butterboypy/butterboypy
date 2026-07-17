@@ -1,8 +1,8 @@
 ## 😼 About Me:
 
 👋 I'm Krish!<br/>
-🍜 I write scripts, build pipelines, dashboards & provide analytical solutions that uses Data<br/>
-💻 Data Analyst sharing my journey and learnings in tech<br/>
+🍜 Data Analyst building end to end analytical solutions.<br/>
+💻 I enjoy solving real business problems across different domains.<br/>
 
 [![Resume](https://img.shields.io/badge/Resume-white?style=for-the-badge&logo=readme&logoColor=black)](YOUR_RESUME_LINK_HERE)
 [![Certifications](https://img.shields.io/badge/Certifications-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/butterboypy/Certifications)
