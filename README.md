@@ -18,8 +18,8 @@
 
 - Tools - Python, Sql, Excel, Power Bi, Tableau
 - Libraries - Numpy, Pandas, Matplotlib, Seaborn, Selenium, BeautifulSoup
-- Gen Ai - Chatgpt, Gemini, Copilot, Claude, Base 44, Grok
-- Cloud - Azure, GCP, AWS, Snowflake
+- Gen Ai - Chatgpt, Gemini, Copilot, Claude, Grok
+- Cloud - AWS, Snowflake, Azure, GCP, Microsoft Fabric
 - Project Management - Click Up, Asana, Notion, Jira
 - Microsoft Office 365, Google Workspace
 - Data Analysis, Data Visualisation, Web Scraping, Data Mining
