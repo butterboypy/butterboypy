@@ -20,7 +20,7 @@
 - Libraries - Numpy, Pandas, Matplotlib, Seaborn, Selenium, BeautifulSoup
 - Gen Ai - Chatgpt, Gemini, Copilot, Claude, Grok
 - Cloud - AWS, Snowflake, Azure, GCP, Microsoft Fabric
-- Project Management - Click Up, Asana, Notion, Jira
+- Project Management - Click Up, Notion, Jira
 - Microsoft Office 365, Google Workspace
 - Data Analysis, Data Visualisation, Web Scraping, Data Mining
 
